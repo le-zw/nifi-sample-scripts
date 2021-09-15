@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<records>
+    <record id="123">
+        <message>Hello, Json!</message>
+        <date>2000-10-01</date>
+        <properties>
+            <one>1</one>
+            <two>2.2</two>
+            <three>"three"</three>
+        </properties>
+        <description>This is a description
+        over several lines of
+        text.</description>
+    </record>
+</records>

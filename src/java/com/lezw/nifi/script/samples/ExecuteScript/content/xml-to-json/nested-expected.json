@@ -1,0 +1,15 @@
+{
+    "records": {
+        "record": {
+            "id": "123",
+            "message": "Hello, Json!",
+            "date": "2000-10-01",
+            "properties": {
+                "one": "1",
+                "two": "2.2",
+                "three": "\"three\""
+            },
+            "description": "This is a description\n        over several lines of\n        text."
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "name": "George",
+            "color": "Blue"
+        },
+        {
+            "name": "John",
+            "color": "Green"
+        },
+        {
+            "name": "Thomas",
+            "color": "Yellow"
+        }
+    ]
+}

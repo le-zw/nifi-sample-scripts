@@ -1,0 +1,14 @@
+<records>
+    <record>
+        <name>George</name>
+        <color>Blue</color>
+    </record>
+    <record>
+        <name>John</name>
+        <color>Green</color>
+    </record>
+    <record>
+        <name>Thomas</name>
+        <color>Yellow</color>
+    </record>
+</records>

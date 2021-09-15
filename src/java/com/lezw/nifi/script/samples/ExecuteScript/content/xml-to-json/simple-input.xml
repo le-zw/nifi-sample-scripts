@@ -1,0 +1,9 @@
+<Record Ref="xyz" Date="date" ID="123">
+    <Decision>approve</Decision>
+    <Reviewer>xyz</Reviewer>
+    <!-- comment -->
+    <Comments>first line 
+        second line
+        third line</Comments>
+    <SKU>123</SKU>
+</Record>

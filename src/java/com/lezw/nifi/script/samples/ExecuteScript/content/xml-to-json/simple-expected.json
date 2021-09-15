@@ -1,0 +1,11 @@
+{
+    "Record": {
+        "Ref": "xyz",
+        "ID": "123",
+        "Date": "date",
+        "Decision": "approve",
+        "Reviewer": "xyz",
+        "Comments": "first line \n        second line\n        third line",
+        "SKU": "123"
+    }
+}
