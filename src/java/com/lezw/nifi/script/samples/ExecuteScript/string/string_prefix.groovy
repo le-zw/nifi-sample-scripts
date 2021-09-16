@@ -9,6 +9,15 @@ import java.nio.charset.StandardCharsets
  * @param null
  * @return null
  */
+
+// 同时获取多个流文件
+// flowFileList = session.get(100)
+// if(!flowFileList.isEmpty()) {
+//     flowFileList.each { flowFile ->
+//     // Process each FlowFile here
+//     }
+// }
+
 def flowFile = session.get();
 if (flowFile == null) {
     return;
